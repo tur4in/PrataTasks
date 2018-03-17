@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Stack.cpp
+c:\users\aturchyn\documents\visual studio 2015\projects\pratatasks\hwprata\10.5\stack.cpp(30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  10.5.vcxproj -> C:\Users\ATurchyn\Documents\Visual Studio 2015\Projects\PrataTasks\HWPrata\x64\Debug\10.5.exe
+  10.5.vcxproj -> C:\Users\ATurchyn\Documents\Visual Studio 2015\Projects\PrataTasks\HWPrata\x64\Debug\10.5.pdb (Full PDB)
